@@ -1,0 +1,2 @@
+# Off-by-One Error in Dart
+This repository demonstrates a common off-by-one error in Dart when iterating over a list using a for loop.  The error arises from incorrectly handling the loop condition, leading to an attempt to access an index outside the bounds of the list.  The solution demonstrates the correct way to iterate and avoid this error.
